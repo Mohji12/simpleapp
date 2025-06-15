@@ -1,0 +1,11 @@
+# requirements.txt
+
+boto3
+paramiko
+flask
+requests
+python-dotenv
+fastapi
+uvicorn
+pydantic
+sqlalchemy
